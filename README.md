@@ -2,7 +2,7 @@
 <div>
 <p>Estudante</p> 
 
-<p>Atualmente estou estudando na Escola SENAI de Informática, fazendo o curso Técnico em Jogos Digitais.</p>
+<p>Atualmente estou cursando na Escola SENAI de Informática, fazendo o curso Técnico em Jogos Digitais.</p>
 </div>
 
 <div>
