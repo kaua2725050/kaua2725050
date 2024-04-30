@@ -7,6 +7,6 @@
 
 <div>
   <h2> me visite em:</h2>
-  <a href = "mailto:carvalhokaua272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaua.p.carvalho6@aluno.senai.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
