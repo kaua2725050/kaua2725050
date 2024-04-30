@@ -7,6 +7,6 @@
 
 <div>
   <h2>:mailbox: me visite em:</h2>
-  <a href = "gmailto:kaua.p.carvalho6@aluno.senai.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "g-mailto:kaua.p.carvalho6@aluno.senai.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
